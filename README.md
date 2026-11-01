@@ -2,6 +2,12 @@
 
 A slightly haunted Nmap classroom for absolute beginners. Built for Hacktoberfest Week 4: Ghost in the Machine.
 
+## Live demo
+
+[Open GhostPort on Render](https://ghostport.onrender.com/) · [Source on GitHub](https://github.com/Mochi-coder-star/ghostport)
+
+![GhostPort running on Render](docs/ghostport.jpg)
+
 ## Start locally
 
 With Node.js 22 or later installed, open a terminal in this project folder and run:
@@ -66,4 +72,4 @@ Original application code is MIT licensed. Code, design and documentation were d
 
 ## Competition status
 
-The app is prepared for Render but has not been deployed there. A public GitHub repository, a public demo or video, and the published DEV entry are still needed. Partner eligibility depends on the final submission's meaningful use of Gemma and Render; adding configuration files alone is not a completed hosting integration.
+The app is deployed on Render, with public source on GitHub. Gemma powers the local tutor and Render serves its frontend; final prize eligibility is determined by the competition judges.
