@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: ghostport
+    runtime: static
+    buildCommand: node --test tests/*.test.mjs
+    staticPublishPath: ./dist
